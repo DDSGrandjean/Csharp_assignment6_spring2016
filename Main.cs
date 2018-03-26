@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment6StockTransaction_DylanGrandjean
+namespace Assignment6
 {
     class Program
     {
